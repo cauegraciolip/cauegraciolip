@@ -1,5 +1,8 @@
 ### Olá, eu sou o Cauê Gracioli 👋
 
+- 🌱 Estou estudando JavaScript.
+- 👯 Quero colaborar com projetos que possam desenvolver minhas habilidades e ajudar pessoas.
+
 <div>
   <a href="https://github.com/cauegraciolip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauegraciolip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,5 +26,4 @@
 
   ##
   
-- 🌱 Estou estudando JavaScript.
-- 👯 Quero colaborar com projetos que possam desenvolver minhas habilidades e ajudar pessoas.
+
